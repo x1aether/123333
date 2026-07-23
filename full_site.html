@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Eye Care - Full Site</title>
+    <script src='https://cdn.tailwindcss.com'></script>
+</head>
+<body class='bg-gray-50'>
+    <nav class='p-5 bg-white border-b flex justify-between items-center sticky top-0 z-50'>
+        <div class='text-2xl font-bold tracking-tighter'>EYE<span class='text-blue-600'>CARE</span></div>
+        <div class='space-x-8 hidden md:flex'>
+            <a href='#' class='hover:text-blue-600'>Home</a>
+            <a href='#products' class='hover:text-blue-600'>Collection</a>
+            <a href='#' class='hover:text-blue-600'>Contact</a>
+        </div>
+    </nav>
+
+    <section class='relative h-[500px] flex items-center justify-center text-white bg-gray-800'>
+        <div class='absolute inset-0 opacity-50 bg-black'></div>
+        <div class='relative z-10 text-center px-4'>
+            <h1 class='text-5xl font-bold mb-4'>Premium Eye Care</h1>
+            <p class='text-xl mb-8'>Everything your eyes need in one place.</p>
+            <a href='#products' class='bg-blue-600 px-10 py-4 rounded-full font-bold hover:bg-blue-700 transition'>Explore Products</a>
+        </div>
+    </section>
+
+    <main id='products' class='max-w-7xl mx-auto py-16 px-4'>
+        <h2 class='text-3xl font-bold mb-10 text-center'>Featured Products</h2>
+        <div class='grid grid-cols-1 md:grid-cols-3 gap-8'>
+            
+    <div class='bg-white p-4 rounded-lg shadow-md hover:shadow-xl transition-shadow'>
+        <img src='shop-page-screenshot.png' class='w-full h-48 object-cover rounded-md mb-4'>
+        <h4 class='font-bold text-lg'>Aviator Classic</h4>
+        <p class='text-blue-600 font-semibold'>$189</p>
+        <button class='mt-4 w-full bg-gray-800 text-white py-2 rounded hover:bg-gray-700'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white p-4 rounded-lg shadow-md hover:shadow-xl transition-shadow'>
+        <img src='shop-page-screenshot.png' class='w-full h-48 object-cover rounded-md mb-4'>
+        <h4 class='font-bold text-lg'>Holbrook XL</h4>
+        <p class='text-blue-600 font-semibold'>$175</p>
+        <button class='mt-4 w-full bg-gray-800 text-white py-2 rounded hover:bg-gray-700'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white p-4 rounded-lg shadow-md hover:shadow-xl transition-shadow'>
+        <img src='shop-page-screenshot.png' class='w-full h-48 object-cover rounded-md mb-4'>
+        <h4 class='font-bold text-lg'>HER 01</h4>
+        <p class='text-blue-600 font-semibold'>$320</p>
+        <button class='mt-4 w-full bg-gray-800 text-white py-2 rounded hover:bg-gray-700'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white p-4 rounded-lg shadow-md hover:shadow-xl transition-shadow'>
+        <img src='shop-page-screenshot.png' class='w-full h-48 object-cover rounded-md mb-4'>
+        <h4 class='font-bold text-lg'>649 Original</h4>
+        <p class='text-blue-600 font-semibold'>$380</p>
+        <button class='mt-4 w-full bg-gray-800 text-white py-2 rounded hover:bg-gray-700'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white p-4 rounded-lg shadow-md hover:shadow-xl transition-shadow'>
+        <img src='shop-page-screenshot.png' class='w-full h-48 object-cover rounded-md mb-4'>
+        <h4 class='font-bold text-lg'>Welty</h4>
+        <p class='text-blue-600 font-semibold'>$145</p>
+        <button class='mt-4 w-full bg-gray-800 text-white py-2 rounded hover:bg-gray-700'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white p-4 rounded-lg shadow-md hover:shadow-xl transition-shadow'>
+        <img src='shop-page-screenshot.png' class='w-full h-48 object-cover rounded-md mb-4'>
+        <h4 class='font-bold text-lg'>Oversized Square</h4>
+        <p class='text-blue-600 font-semibold'>$495</p>
+        <button class='mt-4 w-full bg-gray-800 text-white py-2 rounded hover:bg-gray-700'>Add to Cart</button>
+    </div>
+    
+        </div>
+    </main>
+
+    <footer class='bg-gray-900 text-gray-400 py-12 text-center'>
+        <p>&copy; 2023 Eye Care Site. Built with Supabase & Tailwind.</p>
+    </footer>
+</body>
+</html>

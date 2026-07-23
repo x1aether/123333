@@ -1,0 +1,128 @@
+[
+  {
+    "id": "sess_MRKQZSWGRCJBHX",
+    "userId": "user_admin_001",
+    "role": "admin",
+    "createdAt": "2026-07-14T14:29:57.136Z",
+    "expiresAt": "2026-07-21T14:29:57.136Z"
+  },
+  {
+    "id": "sess_MRKQZXNBK2DAWL",
+    "userId": "user_admin_001",
+    "role": "admin",
+    "createdAt": "2026-07-14T14:30:03.286Z",
+    "expiresAt": "2026-07-21T14:30:03.287Z"
+  },
+  {
+    "id": "sess_MRKR5RKM15EUAL",
+    "userId": "user_admin_001",
+    "role": "admin",
+    "createdAt": "2026-07-14T14:34:35.350Z",
+    "expiresAt": "2026-07-21T14:34:35.350Z"
+  },
+  {
+    "id": "sess_MRKS59OOLF2B5T",
+    "userId": "user_admin_001",
+    "role": "admin",
+    "createdAt": "2026-07-14T15:02:11.782Z",
+    "expiresAt": "2026-07-21T15:02:11.784Z"
+  },
+  {
+    "id": "sess_MRKS6LLVKVM30U",
+    "userId": "user_MRKS6LLQJPB74Y",
+    "role": "customer",
+    "createdAt": "2026-07-14T15:03:13.891Z",
+    "expiresAt": "2026-07-21T15:03:13.891Z"
+  },
+  {
+    "id": "sess_MRKS7M4AZKGS8X",
+    "userId": "user_MRKS6LLQJPB74Y",
+    "role": "customer",
+    "createdAt": "2026-07-14T15:04:01.210Z",
+    "expiresAt": "2026-07-21T15:04:01.210Z"
+  },
+  {
+    "id": "sess_MRM1SLCETHG0ZO",
+    "userId": "user_MRKS6LLQJPB74Y",
+    "role": "customer",
+    "createdAt": "2026-07-15T12:20:02.702Z",
+    "expiresAt": "2026-07-22T12:20:02.702Z"
+  },
+  {
+    "id": "sess_MRM1SN60U4SZ50",
+    "userId": "user_MRKS6LLQJPB74Y",
+    "role": "customer",
+    "createdAt": "2026-07-15T12:20:05.064Z",
+    "expiresAt": "2026-07-22T12:20:05.064Z"
+  },
+  {
+    "id": "sess_MRNOMB3G98TSFP",
+    "userId": "user_MRNOMAZ3COB916",
+    "role": "customer",
+    "createdAt": "2026-07-16T15:46:46.828Z",
+    "expiresAt": "2026-07-23T15:46:46.828Z"
+  },
+  {
+    "id": "sess_MRNOMB8FL0ABZX",
+    "userId": "user_MRNOMAZ3COB916",
+    "role": "customer",
+    "createdAt": "2026-07-16T15:46:47.007Z",
+    "expiresAt": "2026-07-23T15:46:47.007Z"
+  },
+  {
+    "id": "sess_MRNOP95YBWHEV1",
+    "userId": "user_MRNOP91RK5IRQ5",
+    "role": "customer",
+    "createdAt": "2026-07-16T15:49:04.294Z",
+    "expiresAt": "2026-07-23T15:49:04.294Z"
+  },
+  {
+    "id": "sess_MRNOP9AM67OHJX",
+    "userId": "user_MRNOP91RK5IRQ5",
+    "role": "customer",
+    "createdAt": "2026-07-16T15:49:04.462Z",
+    "expiresAt": "2026-07-23T15:49:04.462Z"
+  },
+  {
+    "id": "sess_MRNOUVM5RVOMQN",
+    "userId": "user_MRNOUVIAOICJYO",
+    "role": "customer",
+    "createdAt": "2026-07-16T15:53:26.669Z",
+    "expiresAt": "2026-07-23T15:53:26.669Z"
+  },
+  {
+    "id": "sess_MRNOUVQF1VXA5Z",
+    "userId": "user_MRNOUVIAOICJYO",
+    "role": "customer",
+    "createdAt": "2026-07-16T15:53:26.823Z",
+    "expiresAt": "2026-07-23T15:53:26.823Z"
+  },
+  {
+    "id": "sess_MRNOVH67LYOKLU",
+    "userId": "user_MRNOVH2K3B8MA4",
+    "role": "customer",
+    "createdAt": "2026-07-16T15:53:54.607Z",
+    "expiresAt": "2026-07-23T15:53:54.607Z"
+  },
+  {
+    "id": "sess_MRNOVHAUNEGWHW",
+    "userId": "user_MRNOVH2K3B8MA4",
+    "role": "customer",
+    "createdAt": "2026-07-16T15:53:54.774Z",
+    "expiresAt": "2026-07-23T15:53:54.774Z"
+  },
+  {
+    "id": "sess_MRNSPQKKYNYSHJ",
+    "userId": "user_MRNSPQGHS1TN0Y",
+    "role": "customer",
+    "createdAt": "2026-07-16T17:41:25.316Z",
+    "expiresAt": "2026-07-23T17:41:25.316Z"
+  },
+  {
+    "id": "sess_MRNT18FXGKNQ1T",
+    "userId": "user_MRNT18BYTQ7LWK",
+    "role": "customer",
+    "createdAt": "2026-07-16T17:50:21.693Z",
+    "expiresAt": "2026-07-23T17:50:21.693Z"
+  }
+]

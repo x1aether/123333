@@ -1,0 +1,27 @@
+{
+  "storeName": "Eye Care",
+  "storeEmail": "support@eyecare.com",
+  "storePhone": "+1 555-EYE-CARE",
+  "storeAddress": "123 Fifth Avenue, New York, NY 10001",
+  "currency": "USD",
+  "currencySymbol": "$",
+  "taxRate": 8,
+  "freeShippingThreshold": 150,
+  "standardShipping": 9.99,
+  "expressShipping": 24.99,
+  "whatsappNumber": "+15550123456",
+  "socialMedia": {
+    "instagram": "https://instagram.com/eyecare",
+    "facebook": "https://facebook.com/eyecare",
+    "twitter": "https://twitter.com/eyecare",
+    "youtube": "https://youtube.com/eyecare"
+  },
+  "metaTitle": "Eye Care — Premium Luxury Eyewear",
+  "metaDescription": "Discover premium sunglasses, prescription glasses, blue light eyewear, and luxury fashion frames.",
+  "heroTitle": "See the World Differently",
+  "heroSubtitle": "New Collection 2026",
+  "maintenanceMode": false,
+  "allowRegistration": true,
+  "orderConfirmationEmail": true,
+  "shippingNotificationEmail": true
+}

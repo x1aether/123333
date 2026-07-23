@@ -1,0 +1,425 @@
+[
+  {
+    "id": "img_6_0",
+    "name": "Oversized Square - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+    "altText": "Oversized Square product image",
+    "productId": "6",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_6_1",
+    "name": "Oversized Square - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+    "altText": "Oversized Square product image",
+    "productId": "6",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_6_2",
+    "name": "Oversized Square - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+    "altText": "Oversized Square product image",
+    "productId": "6",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_7_0",
+    "name": "Chamberlain - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+    "altText": "Chamberlain product image",
+    "productId": "7",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_7_1",
+    "name": "Chamberlain - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+    "altText": "Chamberlain product image",
+    "productId": "7",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_7_2",
+    "name": "Chamberlain - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop",
+    "altText": "Chamberlain product image",
+    "productId": "7",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_9_0",
+    "name": "Radar EV Path - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800&h=800&fit=crop",
+    "altText": "Radar EV Path product image",
+    "productId": "9",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_9_1",
+    "name": "Radar EV Path - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1509695507497-903a140ce43f?w=800&h=800&fit=crop",
+    "altText": "Radar EV Path product image",
+    "productId": "9",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_9_2",
+    "name": "Radar EV Path - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1622519407650-3df9a68965d5?w=800&h=800&fit=crop",
+    "altText": "Radar EV Path product image",
+    "productId": "9",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_10_0",
+    "name": "Riley - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1545127395-f9c6b929b4b8?w=800&h=800&fit=crop",
+    "altText": "Riley product image",
+    "productId": "10",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_10_1",
+    "name": "Riley - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+    "altText": "Riley product image",
+    "productId": "10",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_10_2",
+    "name": "Riley - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1556306535-38fe0e8a0a3d?w=800&h=800&fit=crop",
+    "altText": "Riley product image",
+    "productId": "10",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_11_0",
+    "name": "Linea Rossa - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+    "altText": "Linea Rossa product image",
+    "productId": "11",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_11_1",
+    "name": "Linea Rossa - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+    "altText": "Linea Rossa product image",
+    "productId": "11",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_11_2",
+    "name": "Linea Rossa - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+    "altText": "Linea Rossa product image",
+    "productId": "11",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_12_0",
+    "name": "Percey - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop",
+    "altText": "Percey product image",
+    "productId": "12",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_12_1",
+    "name": "Percey - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+    "altText": "Percey product image",
+    "productId": "12",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_12_2",
+    "name": "Percey - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+    "altText": "Percey product image",
+    "productId": "12",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_13_0",
+    "name": "Whitney - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+    "altText": "Whitney product image",
+    "productId": "13",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_13_1",
+    "name": "Whitney - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1545127395-f9c6b929b4b8?w=800&h=800&fit=crop",
+    "altText": "Whitney product image",
+    "productId": "13",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_13_2",
+    "name": "Whitney - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1556306535-38fe0e8a0a3d?w=800&h=800&fit=crop",
+    "altText": "Whitney product image",
+    "productId": "13",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_14_0",
+    "name": "Wayfarer Classic - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+    "altText": "Wayfarer Classic product image",
+    "productId": "14",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_14_1",
+    "name": "Wayfarer Classic - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+    "altText": "Wayfarer Classic product image",
+    "productId": "14",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_14_2",
+    "name": "Wayfarer Classic - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+    "altText": "Wayfarer Classic product image",
+    "productId": "14",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_15_0",
+    "name": "Premium Lens Cloth Set - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+    "altText": "Premium Lens Cloth Set product image",
+    "productId": "15",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_15_1",
+    "name": "Premium Lens Cloth Set - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+    "altText": "Premium Lens Cloth Set product image",
+    "productId": "15",
+    "uploadDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "img_1784212405910_0",
+    "name": "new - Image 1",
+    "category": "products",
+    "imagePath": "/images/products/products_MRNLZNCRJN6JVH.jpg",
+    "altText": "new product image",
+    "productId": "16",
+    "uploadDate": "2026-07-16T14:33:25.910Z"
+  },
+  {
+    "id": "img_1784212405910_1",
+    "name": "new - Image 2",
+    "category": "products",
+    "imagePath": "/images/products/products_MRNLZWM7L2OL93.jpg",
+    "altText": "new product image",
+    "productId": "16",
+    "uploadDate": "2026-07-16T14:33:25.910Z"
+  },
+  {
+    "id": "img_1784389506642_0",
+    "name": "Aviator Classic - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+    "altText": "Aviator Classic product image",
+    "productId": "1",
+    "uploadDate": "2026-07-18T15:45:06.642Z"
+  },
+  {
+    "id": "img_1784389506642_1",
+    "name": "Aviator Classic - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+    "altText": "Aviator Classic product image",
+    "productId": "1",
+    "uploadDate": "2026-07-18T15:45:06.642Z"
+  },
+  {
+    "id": "img_1784389506642_2",
+    "name": "Aviator Classic - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+    "altText": "Aviator Classic product image",
+    "productId": "1",
+    "uploadDate": "2026-07-18T15:45:06.642Z"
+  },
+  {
+    "id": "img_1784389506642_3",
+    "name": "Aviator Classic - Image 4",
+    "category": "products",
+    "imagePath": "/uploads/products/products_MRQJFL3Q44UYYU.jpg",
+    "altText": "Aviator Classic product image",
+    "productId": "1",
+    "uploadDate": "2026-07-18T15:45:06.642Z"
+  },
+  {
+    "id": "img_1784389525844_0",
+    "name": "Holbrook XL - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800&h=800&fit=crop",
+    "altText": "Holbrook XL product image",
+    "productId": "2",
+    "uploadDate": "2026-07-18T15:45:25.844Z"
+  },
+  {
+    "id": "img_1784389525844_1",
+    "name": "Holbrook XL - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1622519407650-3df9a68965d5?w=800&h=800&fit=crop",
+    "altText": "Holbrook XL product image",
+    "productId": "2",
+    "uploadDate": "2026-07-18T15:45:25.844Z"
+  },
+  {
+    "id": "img_1784389525844_2",
+    "name": "Holbrook XL - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1509695507497-903a140ce43f?w=800&h=800&fit=crop",
+    "altText": "Holbrook XL product image",
+    "productId": "2",
+    "uploadDate": "2026-07-18T15:45:25.844Z"
+  },
+  {
+    "id": "img_1784389548729_0",
+    "name": "HER 01 - Image 1",
+    "category": "products",
+    "imagePath": "/uploads/products/products_MRQJGKSFDR432F.jpg",
+    "altText": "HER 01 product image",
+    "productId": "3",
+    "uploadDate": "2026-07-18T15:45:48.729Z"
+  },
+  {
+    "id": "img_1784389548729_1",
+    "name": "HER 01 - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop",
+    "altText": "HER 01 product image",
+    "productId": "3",
+    "uploadDate": "2026-07-18T15:45:48.729Z"
+  },
+  {
+    "id": "img_1784389548729_2",
+    "name": "HER 01 - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+    "altText": "HER 01 product image",
+    "productId": "3",
+    "uploadDate": "2026-07-18T15:45:48.729Z"
+  },
+  {
+    "id": "img_1784389548729_3",
+    "name": "HER 01 - Image 4",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+    "altText": "HER 01 product image",
+    "productId": "3",
+    "uploadDate": "2026-07-18T15:45:48.729Z"
+  },
+  {
+    "id": "img_1784389572863_0",
+    "name": "649 Original - Image 1",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+    "altText": "649 Original product image",
+    "productId": "4",
+    "uploadDate": "2026-07-18T15:46:12.863Z"
+  },
+  {
+    "id": "img_1784389572863_1",
+    "name": "649 Original - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1556306535-38fe0e8a0a3d?w=800&h=800&fit=crop",
+    "altText": "649 Original product image",
+    "productId": "4",
+    "uploadDate": "2026-07-18T15:46:12.863Z"
+  },
+  {
+    "id": "img_1784389572863_2",
+    "name": "649 Original - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1545127395-f9c6b929b4b8?w=800&h=800&fit=crop",
+    "altText": "649 Original product image",
+    "productId": "4",
+    "uploadDate": "2026-07-18T15:46:12.863Z"
+  },
+  {
+    "id": "img_1784389594539_0",
+    "name": "Welty - Image 1",
+    "category": "products",
+    "imagePath": "/uploads/products/products_MRQJHKXTMBUBN0.jpg",
+    "altText": "Welty product image",
+    "productId": "5",
+    "uploadDate": "2026-07-18T15:46:34.539Z"
+  },
+  {
+    "id": "img_1784389594539_1",
+    "name": "Welty - Image 2",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+    "altText": "Welty product image",
+    "productId": "5",
+    "uploadDate": "2026-07-18T15:46:34.539Z"
+  },
+  {
+    "id": "img_1784389594539_2",
+    "name": "Welty - Image 3",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+    "altText": "Welty product image",
+    "productId": "5",
+    "uploadDate": "2026-07-18T15:46:34.539Z"
+  },
+  {
+    "id": "img_1784389594539_3",
+    "name": "Welty - Image 4",
+    "category": "products",
+    "imagePath": "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop",
+    "altText": "Welty product image",
+    "productId": "5",
+    "uploadDate": "2026-07-18T15:46:34.539Z"
+  },
+  {
+    "id": "img_1784393348556_0",
+    "name": "p2 - Image 1",
+    "category": "products",
+    "imagePath": "/uploads/products/products_MRQLKJA0FNJBXZ.jpg",
+    "altText": "p2 product image",
+    "productId": "17",
+    "uploadDate": "2026-07-18T16:49:08.556Z"
+  }
+]

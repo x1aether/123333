@@ -1,0 +1,225 @@
+[
+  {
+    "id": "EC-MRMIMFDMFHRLTG",
+    "customerId": "guest",
+    "customerName": "osama1",
+    "customerEmail": "os@o.com",
+    "customerPhone": "01062672383",
+    "shippingAddress": {
+      "firstName": "osama1",
+      "lastName": "",
+      "address": "Street 48",
+      "city": "6th of October",
+      "governorate": "Giza",
+      "country": "Egypt",
+      "gpsLat": "29.955099657526258",
+      "gpsLng": "31.099148148805845"
+    },
+    "items": [
+      {
+        "productId": "7",
+        "variantId": "v1",
+        "productName": "Chamberlain",
+        "brand": "Warby Parker",
+        "image": "/images/products/placeholder.jpg",
+        "frameColor": "Matte Black",
+        "lensColor": "Clear",
+        "sku": "WP-CH-007",
+        "price": 95,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 190,
+    "discount": 0,
+    "couponCode": null,
+    "shipping": 30,
+    "tax": 0,
+    "total": 220,
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "trackingNumber": null,
+    "notes": "",
+    "prescription": null,
+    "prescriptionImage": null,
+    "createdAt": "2026-07-15T20:11:08.506Z",
+    "updatedAt": "2026-07-15T20:11:08.506Z",
+    "statusHistory": [
+      {
+        "status": "pending",
+        "timestamp": "2026-07-15T20:11:08.506Z",
+        "note": "Order placed successfully"
+      }
+    ]
+  },
+  {
+    "id": "EC-MRMINNB7SZLASL",
+    "customerId": "guest",
+    "customerName": "osama1",
+    "customerEmail": "os@o.com",
+    "customerPhone": "01223244534",
+    "shippingAddress": {
+      "firstName": "osama1",
+      "lastName": "",
+      "address": "Street 48",
+      "city": "Imbaba",
+      "governorate": "Giza",
+      "country": "Egypt",
+      "gpsLat": "29.955099657526258",
+      "gpsLng": "31.099148148805845"
+    },
+    "items": [
+      {
+        "productId": "5",
+        "variantId": "v1",
+        "productName": "Welty",
+        "brand": "Warby Parker",
+        "image": "/images/products/placeholder.jpg",
+        "frameColor": "Crystal",
+        "lensColor": "Clear",
+        "sku": "WP-WE-005",
+        "price": 145,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 145,
+    "discount": 0,
+    "couponCode": null,
+    "shipping": 30,
+    "tax": 0,
+    "total": 175,
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "trackingNumber": null,
+    "notes": "",
+    "prescription": {
+      "rightEye": {
+        "sphere": "",
+        "cylinder": "",
+        "axis": "",
+        "add": ""
+      },
+      "leftEye": {
+        "sphere": "",
+        "cylinder": "",
+        "axis": "",
+        "add": ""
+      },
+      "pd": "",
+      "notes": ""
+    },
+    "prescriptionImage": null,
+    "createdAt": "2026-07-15T20:12:05.442Z",
+    "updatedAt": "2026-07-15T20:12:05.442Z",
+    "statusHistory": [
+      {
+        "status": "pending",
+        "timestamp": "2026-07-15T20:12:05.442Z",
+        "note": "Order placed successfully"
+      }
+    ]
+  },
+  {
+    "id": "EC-MRNSQWTJUQ96BY",
+    "customerId": "user_MRNSPQGHS1TN0Y",
+    "customerName": "Checkout Test",
+    "customerEmail": "checkouttest_1784223631157@test.com",
+    "customerPhone": "01012345678",
+    "shippingAddress": {
+      "firstName": "Checkout",
+      "lastName": "Test",
+      "address": "123 Test St",
+      "city": "Cairo",
+      "governorate": "Cairo",
+      "country": "Egypt"
+    },
+    "items": [
+      {
+        "productId": "1",
+        "variantId": "v1",
+        "productName": "Test",
+        "brand": "Test",
+        "image": "",
+        "frameColor": "",
+        "lensColor": "",
+        "sku": "",
+        "price": 100,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 100,
+    "discount": 0,
+    "couponCode": null,
+    "shipping": 0,
+    "tax": 0,
+    "total": 100,
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "trackingNumber": null,
+    "notes": "",
+    "prescription": null,
+    "prescriptionImage": null,
+    "createdAt": "2026-07-16T17:42:20.071Z",
+    "updatedAt": "2026-07-16T17:42:20.071Z",
+    "statusHistory": [
+      {
+        "status": "pending",
+        "timestamp": "2026-07-16T17:42:20.071Z",
+        "note": "Order placed successfully"
+      }
+    ]
+  },
+  {
+    "id": "EC-MRNT191034WKOC",
+    "customerId": "user_MRNT18BYTQ7LWK",
+    "customerName": "Checkout Test",
+    "customerEmail": "checkouttest_1784224221443@test.com",
+    "customerPhone": "01012345678",
+    "shippingAddress": {
+      "firstName": "Checkout",
+      "lastName": "Test",
+      "address": "123 Test St",
+      "city": "Cairo",
+      "governorate": "Cairo",
+      "country": "Egypt"
+    },
+    "items": [
+      {
+        "productId": "1",
+        "variantId": "v1",
+        "productName": "Test",
+        "brand": "Test",
+        "image": "",
+        "frameColor": "",
+        "lensColor": "",
+        "sku": "",
+        "price": 100,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 100,
+    "discount": 0,
+    "couponCode": null,
+    "shipping": 0,
+    "tax": 0,
+    "total": 100,
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "trackingNumber": null,
+    "notes": "",
+    "prescription": null,
+    "prescriptionImage": null,
+    "createdAt": "2026-07-16T17:50:22.452Z",
+    "updatedAt": "2026-07-16T17:50:22.452Z",
+    "statusHistory": [
+      {
+        "status": "pending",
+        "timestamp": "2026-07-16T17:50:22.452Z",
+        "note": "Order placed successfully"
+      }
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "id": "user_admin_001",
+    "name": "Admin User",
+    "email": "admin@eyecare.com",
+    "passwordHash": "$2b$10$PgawOfJc5FFayVL4OQj1Ee7yDpoAcHWoIVMI5jBAA0HissTT8EHcy",
+    "role": "admin",
+    "avatar": "/images/avatars/admin.jpg",
+    "phone": "+1 555-0100",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isActive": true,
+    "addresses": []
+  },
+  {
+    "id": "user_cust_001",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "passwordHash": "$2b$10$bdAlWPJCdGxhqL./rTimKe8vh9CjrvpWo2kLGSQQO6KCfHb9xzCp.",
+    "role": "customer",
+    "avatar": "/images/avatars/default.jpg",
+    "phone": "+1 555-0101",
+    "createdAt": "2026-02-15T10:30:00.000Z",
+    "updatedAt": "2026-02-15T10:30:00.000Z",
+    "isActive": true,
+    "addresses": [
+      {
+        "id": "addr_001",
+        "label": "Home",
+        "firstName": "John",
+        "lastName": "Doe",
+        "address": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001",
+        "country": "United States",
+        "phone": "+1 555-0101",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "user_MRNOMAZ3COB916",
+    "name": "Prod Tester",
+    "email": "prodtest_1784216806659@example.com",
+    "passwordHash": "$2b$10$JUbQ/ayyaFX1H.F6KPseuOpCbCxxt.5gLxrLcljU99uxmcGPswNmG",
+    "role": "customer",
+    "avatar": "/images/avatars/default.jpg",
+    "phone": "",
+    "createdAt": "2026-07-16T15:46:46.671Z",
+    "updatedAt": "2026-07-16T15:46:46.671Z",
+    "isActive": true,
+    "addresses": []
+  },
+  {
+    "id": "user_MRNOP91RK5IRQ5",
+    "name": "Prod Tester",
+    "email": "prodtest_1784216944132@example.com",
+    "passwordHash": "$2b$10$gahOKypEcK1k9f/ymbDZIuynJ3aDupHcYcTWysguSzmYPbk6dXism",
+    "role": "customer",
+    "avatar": "/images/avatars/default.jpg",
+    "phone": "",
+    "createdAt": "2026-07-16T15:49:04.142Z",
+    "updatedAt": "2026-07-16T15:49:04.142Z",
+    "isActive": true,
+    "addresses": []
+  },
+  {
+    "id": "user_MRNOUVIAOICJYO",
+    "name": "Prod Tester",
+    "email": "prodtest_1784217206521@example.com",
+    "passwordHash": "$2b$10$HeGSLNOXgmhrXjr6e1kezOvMIe0nNqgR2aEqblX6NAILHIIh0KyZe",
+    "role": "customer",
+    "avatar": "/images/avatars/default.jpg",
+    "phone": "",
+    "createdAt": "2026-07-16T15:53:26.530Z",
+    "updatedAt": "2026-07-16T15:53:26.530Z",
+    "isActive": true,
+    "addresses": []
+  },
+  {
+    "id": "user_MRNOVH2K3B8MA4",
+    "name": "Prod Tester",
+    "email": "prodtest_1784217234469@example.com",
+    "passwordHash": "$2b$10$JE6wr0qZcUX3hVRsTJENVOmp.rvyapRhSmDEy4JBZH/1Qo0XgNkWm",
+    "role": "customer",
+    "avatar": "/images/avatars/default.jpg",
+    "phone": "",
+    "createdAt": "2026-07-16T15:53:54.476Z",
+    "updatedAt": "2026-07-16T15:53:54.476Z",
+    "isActive": true,
+    "addresses": []
+  },
+  {
+    "id": "user_MRNSPQGHS1TN0Y",
+    "name": "Checkout Test",
+    "email": "checkouttest_1784223631157@test.com",
+    "passwordHash": "$2b$10$vDYekYVTbZJJF9bY8GwEy.mqxKEl5H6KAu5Ky8PHkovhZiSeuv2Wi",
+    "role": "customer",
+    "avatar": "/images/avatars/default.jpg",
+    "phone": "",
+    "createdAt": "2026-07-16T17:41:25.168Z",
+    "updatedAt": "2026-07-16T17:41:25.168Z",
+    "isActive": true,
+    "addresses": []
+  },
+  {
+    "id": "user_MRNT18BYTQ7LWK",
+    "name": "Checkout Test",
+    "email": "checkouttest_1784224221443@test.com",
+    "passwordHash": "$2b$10$1UPxr4oct2lGRWurUJEzlOKAFn/fywsjs2zjO19iGPrIdnTeOV1WS",
+    "role": "customer",
+    "avatar": "/images/avatars/default.jpg",
+    "phone": "",
+    "createdAt": "2026-07-16T17:50:21.550Z",
+    "updatedAt": "2026-07-16T17:50:21.550Z",
+    "isActive": true,
+    "addresses": []
+  }
+]

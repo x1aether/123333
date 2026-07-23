@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Eye Care | Professional Vision Services</title>
+    <script src='https://cdn.tailwindcss.com'></script>
+    <script src='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2'></script>
+</head>
+<body class='bg-gray-50 font-sans text-gray-900'>
+
+    <!-- SUPABASE CONFIGURATION -->
+    <script>
+      const SUPABASE_URL = 'https://zkwnndxzpvcigiwhcigd.supabase.co';
+      const SUPABASE_ANON_KEY = 'sb_publishable_RDWbpRxEdJh3VS8kN6C-Iw_8adTtQUd';
+      const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+      async function fetchProducts() {
+          const { data, error } = await supabaseClient
+              .from('products')
+              .select('*');
+          
+          if (error) {
+              console.error('Error fetching products:', error);
+          } else {
+              console.log('Products from Supabase:', data);
+          }
+      }
+
+      document.addEventListener('DOMContentLoaded', fetchProducts);
+    </script>
+
+    <!-- Header -->
+    <nav class='bg-white/80 backdrop-blur-md sticky top-0 z-50 border-b border-gray-100'>
+        <div class='max-w-7xl mx-auto px-6 h-20 flex justify-between items-center'>
+            <div class='text-2xl font-black text-blue-600'>EYE<span class='text-gray-900'>CARE</span></div>
+            <div class='hidden md:flex space-x-10 font-medium'>
+                <a href='#' class='hover:text-blue-600 transition'>Home</a>
+                <a href='#collection' class='hover:text-blue-600 transition'>Collection</a>
+            </div>
+        </div>
+    </nav>
+
+    <section id='collection' class='py-20 max-w-7xl mx-auto px-6'>
+        <div class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10'>
+            
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Aviator Classic' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Aviator Classic</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$189</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Holbrook XL' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Holbrook XL</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$175</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='HER 01' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>HER 01</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$320</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='649 Original' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>649 Original</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$380</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Welty' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Welty</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$145</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Oversized Square' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Oversized Square</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$495</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Chamberlain' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Chamberlain</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$95</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Radar EV Path' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Radar EV Path</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$210</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Riley' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Riley</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$425</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Linea Rossa' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Linea Rossa</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$450</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Percey' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Percey</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$95</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Whitney' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Whitney</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$520</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Wayfarer Classic' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Wayfarer Classic</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$169</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='Premium Lens Cloth Set' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>Premium Lens Cloth Set</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$29.99</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='new' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>new</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$999.99</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+    <div class='bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all p-4 border border-gray-100 group'>
+        <div class='overflow-hidden rounded-xl bg-gray-100 mb-4'>
+            <img src='shop-page-screenshot.png' alt='p2' class='w-full h-56 object-cover group-hover:scale-105 transition-transform'>
+        </div>
+        <h3 class='text-lg font-bold text-gray-800'>p2</h3>
+        <p class='text-blue-600 font-bold text-xl mt-2'>$100</p>
+        <button class='mt-4 w-full bg-blue-600 text-white py-3 rounded-xl font-semibold hover:bg-blue-700 transition'>Add to Cart</button>
+    </div>
+    
+        </div>
+    </section>
+
+</body>
+</html>

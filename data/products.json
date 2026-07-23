@@ -1,0 +1,1200 @@
+[
+  {
+    "id": "1",
+    "slug": "ray-ban-aviator-classic",
+    "name": "Aviator Classic",
+    "brand": "Ray-Ban",
+    "price": 189,
+    "salePrice": 159,
+    "sku": "RB-AV-001",
+    "category": "Sunglasses",
+    "frameType": "Full Rim",
+    "frameShape": "Aviator",
+    "lensColor": "Green",
+    "frameColor": "Gold",
+    "gender": "Unisex",
+    "material": "Metal",
+    "uvProtection": "UV400",
+    "polarized": true,
+    "blueLightFilter": false,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 48,
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+      "/uploads/products/products_MRQJFL3Q44UYYU.jpg"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+    "description": "The iconic Ray-Ban Aviator Classic features a timeless teardrop shape with premium metal construction. Crystal green G-15 lenses provide exceptional clarity and 100% UV protection.",
+    "features": [
+      "Iconic teardrop aviator shape",
+      "Crystal green G-15 lenses",
+      "100% UV400 protection",
+      "Polarized lens option",
+      "Adjustable nose pads"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Gold",
+        "lensColor": "Green",
+        "image": "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+        "sku": "RB-AV-001-GG"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Silver",
+        "lensColor": "Grey",
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+        "sku": "RB-AV-001-SG"
+      },
+      {
+        "id": "v3",
+        "frameColor": "Black",
+        "lensColor": "Brown",
+        "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+        "sku": "RB-AV-001-BB"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "James M.",
+        "rating": 5,
+        "date": "2026-01-15",
+        "title": "Timeless Classic",
+        "comment": "These aviators are absolutely perfect. The fit is comfortable and the lenses are crystal clear.",
+        "verified": true
+      },
+      {
+        "id": "r2",
+        "author": "Sarah K.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "title": "Worth Every Penny",
+        "comment": "Premium quality that you can feel. The gold frame is stunning in person.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "2",
+      "5",
+      "8"
+    ],
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": false,
+    "discount": 15.87,
+    "rating": 4.9,
+    "reviewCount": 342,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:45:06.637Z",
+    "nameAr": "",
+    "descriptionAr": "",
+    "categoryAr": ""
+  },
+  {
+    "id": "2",
+    "slug": "oakley-holbrook-xl",
+    "name": "Holbrook XL",
+    "brand": "Oakley",
+    "price": 175,
+    "sku": "OK-HB-002",
+    "category": "Sunglasses",
+    "frameType": "Full Rim",
+    "frameShape": "Square",
+    "lensColor": "Grey",
+    "frameColor": "Matte Black",
+    "gender": "Men",
+    "material": "TR90",
+    "uvProtection": "UV400",
+    "polarized": true,
+    "blueLightFilter": false,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1622519407650-3df9a68965d5?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1509695507497-903a140ce43f?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800&h=800&fit=crop",
+    "description": "Oakley Holbrook XL delivers a bold square profile with O Matter frame material for all-day comfort. Prizm lenses enhance color and contrast for vivid detail.",
+    "features": [
+      "O Matter stress-resistant frame",
+      "Prizm lens technology",
+      "Unobtainium nose pads",
+      "Three-Point Fit",
+      "Impact protection"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Matte Black",
+        "lensColor": "Grey",
+        "image": "https://images.unsplash.com/photo-1622519407650-3df9a68965d5?w=800&h=800&fit=crop",
+        "sku": "OK-HB-002-MG"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Brown",
+        "lensColor": "Brown",
+        "image": "https://images.unsplash.com/photo-1509695507497-903a140ce43f?w=800&h=800&fit=crop",
+        "sku": "OK-HB-002-BB"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Mike T.",
+        "rating": 5,
+        "date": "2026-03-01",
+        "title": "Perfect for Sports",
+        "comment": "Lightweight yet durable. Great for cycling and running.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "1",
+      "6",
+      "9"
+    ],
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": false,
+    "discount": 0,
+    "rating": 4.8,
+    "reviewCount": 198,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:45:25.839Z",
+    "nameAr": "",
+    "descriptionAr": "",
+    "categoryAr": ""
+  },
+  {
+    "id": "3",
+    "slug": "gentle-monster-her-01",
+    "name": "HER 01",
+    "brand": "Gentle Monster",
+    "price": 320,
+    "sku": "GM-HER-003",
+    "category": "Fashion Eyewear",
+    "frameType": "Full Rim",
+    "frameShape": "Cat Eye",
+    "lensColor": "Clear",
+    "frameColor": "Black",
+    "gender": "Women",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": false,
+    "blueLightFilter": true,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 20,
+    "images": [
+      "/uploads/products/products_MRQJGKSFDR432F.jpg",
+      "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "/uploads/products/products_MRQJGKSFDR432F.jpg",
+    "description": "Gentle Monster HER 01 redefines contemporary eyewear with an architectural cat-eye silhouette. Handcrafted acetate frames meet avant-garde design.",
+    "features": [
+      "Handcrafted Italian acetate",
+      "Architectural cat-eye design",
+      "Blue light filtering lenses",
+      "Signature GM branding",
+      "Limited edition collection"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Black",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop",
+        "sku": "GM-HER-003-BK"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Crystal",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+        "sku": "GM-HER-003-CR"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Emma L.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "title": "Statement Piece",
+        "comment": "These are wearable art. Everyone asks where I got them.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "4",
+      "7",
+      "10"
+    ],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": false,
+    "discount": 0,
+    "rating": 4.7,
+    "reviewCount": 87,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:45:48.723Z",
+    "nameAr": "",
+    "descriptionAr": "",
+    "categoryAr": ""
+  },
+  {
+    "id": "4",
+    "slug": "persol-649-original",
+    "name": "649 Original",
+    "brand": "Persol",
+    "price": 380,
+    "salePrice": 340,
+    "sku": "PS-649-004",
+    "category": "Sunglasses",
+    "frameType": "Full Rim",
+    "frameShape": "Round",
+    "lensColor": "Brown",
+    "frameColor": "Tortoise",
+    "gender": "Unisex",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": true,
+    "blueLightFilter": false,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1556306535-38fe0e8a0a3d?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1545127395-f9c6b929b4b8?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+    "description": "The legendary Persol 649, worn by Steve McQueen. Handcrafted in Italy with the signature Meflecto temple system for supreme comfort.",
+    "features": [
+      "Handmade in Italy",
+      "Meflecto flexible temples",
+      "Crystal lenses",
+      "Silver arrow hinges",
+      "Steve McQueen edition"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Tortoise",
+        "lensColor": "Brown",
+        "image": "https://images.unsplash.com/photo-1556306535-38fe0e8a0a3d?w=800&h=800&fit=crop",
+        "sku": "PS-649-004-TB"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Black",
+        "lensColor": "Grey",
+        "image": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+        "sku": "PS-649-004-BG"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "David R.",
+        "rating": 5,
+        "date": "2026-01-28",
+        "title": "Italian Craftsmanship",
+        "comment": "You can feel the quality immediately. A true investment piece.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "1",
+      "3",
+      "8"
+    ],
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": false,
+    "discount": 10.53,
+    "rating": 4.9,
+    "reviewCount": 256,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:46:12.858Z",
+    "nameAr": "",
+    "descriptionAr": "",
+    "categoryAr": ""
+  },
+  {
+    "id": "5",
+    "slug": "warby-parker-welty",
+    "name": "Welty",
+    "brand": "Warby Parker",
+    "price": 145,
+    "sku": "WP-WE-005",
+    "category": "Prescription Glasses",
+    "frameType": "Full Rim",
+    "frameShape": "Rectangle",
+    "lensColor": "Clear",
+    "frameColor": "Crystal",
+    "gender": "Unisex",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": false,
+    "blueLightFilter": true,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 59,
+    "images": [
+      "/uploads/products/products_MRQJHKXTMBUBN0.jpg",
+      "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "/uploads/products/products_MRQJHKXTMBUBN0.jpg",
+    "description": "Warby Parker Welty features a refined rectangular silhouette in premium cellulose acetate. Includes blue light filtering lenses for screen protection.",
+    "features": [
+      "Premium cellulose acetate",
+      "Blue light filtering lenses",
+      "Anti-reflective coating",
+      "Scratch-resistant",
+      "Free home try-on available"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Crystal",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+        "sku": "WP-WE-005-CR"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Black",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+        "sku": "WP-WE-005-BK"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Lisa P.",
+        "rating": 4,
+        "date": "2026-03-05",
+        "title": "Great Everyday Glasses",
+        "comment": "Comfortable for all-day wear. Blue light filter really helps with eye strain.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "7",
+      "10",
+      "12"
+    ],
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": true,
+    "discount": 0,
+    "rating": 4.6,
+    "reviewCount": 412,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T16:47:44.063Z",
+    "nameAr": "",
+    "descriptionAr": "",
+    "categoryAr": ""
+  },
+  {
+    "id": "6",
+    "slug": "gucci-oversized-square",
+    "name": "Oversized Square",
+    "brand": "Gucci",
+    "price": 495,
+    "sku": "GC-OS-006",
+    "category": "Fashion Eyewear",
+    "frameType": "Full Rim",
+    "frameShape": "Square",
+    "lensColor": "Gradient",
+    "frameColor": "Gold",
+    "gender": "Women",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": false,
+    "blueLightFilter": false,
+    "prescriptionCompatible": false,
+    "stockStatus": "Low Stock",
+    "stockQuantity": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+    "description": "Gucci Oversized Square sunglasses feature the iconic interlocking G logo on temples. Gradient lenses and gold-tone hardware exude luxury.",
+    "features": [
+      "Interlocking G logo temples",
+      "Gradient lenses",
+      "Gold-tone hardware",
+      "Oversized square silhouette",
+      "Made in Italy"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Gold",
+        "lensColor": "Gradient",
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+        "sku": "GC-OS-006-GG"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Black",
+        "lensColor": "Grey",
+        "image": "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+        "sku": "GC-OS-006-BG"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Victoria H.",
+        "rating": 5,
+        "date": "2026-02-14",
+        "title": "Pure Luxury",
+        "comment": "The craftsmanship is extraordinary. A true fashion statement.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "3",
+      "4",
+      "11"
+    ],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": false,
+    "discount": 0,
+    "rating": 4.8,
+    "reviewCount": 64,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "slug": "warby-parker-chamberlain",
+    "name": "Chamberlain",
+    "brand": "Warby Parker",
+    "price": 95,
+    "sku": "WP-CH-007",
+    "category": "Blue Light Glasses",
+    "frameType": "Full Rim",
+    "frameShape": "Round",
+    "lensColor": "Clear",
+    "frameColor": "Matte Black",
+    "gender": "Unisex",
+    "material": "TR90",
+    "uvProtection": "UV400",
+    "polarized": false,
+    "blueLightFilter": true,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 73,
+    "images": [
+      "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+    "description": "Chamberlain blue light glasses feature a classic round frame with advanced blue light filtering technology. Perfect for digital professionals.",
+    "features": [
+      "40% blue light reduction",
+      "Anti-glare coating",
+      "Lightweight TR90 frame",
+      "Prescription-ready",
+      "Includes cleaning cloth"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Matte Black",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+        "sku": "WP-CH-007-MB"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Crystal",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop",
+        "sku": "WP-CH-007-CR"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Alex W.",
+        "rating": 5,
+        "date": "2026-03-10",
+        "title": "Game Changer",
+        "comment": "My eye strain has significantly reduced since wearing these during work.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "5",
+      "10",
+      "12"
+    ],
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "isPublished": false,
+    "isHidden": true,
+    "discount": 0,
+    "rating": 4.7,
+    "reviewCount": 523,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:46:45.797Z"
+  },
+  {
+    "id": "9",
+    "slug": "oakley-radar-ev-path",
+    "name": "Radar EV Path",
+    "brand": "Oakley",
+    "price": 210,
+    "sku": "OK-RE-009",
+    "category": "Sports Glasses",
+    "frameType": "Shield",
+    "frameShape": "Geometric",
+    "lensColor": "Mirror",
+    "frameColor": "Matte Black",
+    "gender": "Unisex",
+    "material": "TR90",
+    "uvProtection": "UV400",
+    "polarized": false,
+    "blueLightFilter": false,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 40,
+    "images": [
+      "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1509695507497-903a140ce43f?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1622519407650-3df9a68965d5?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800&h=800&fit=crop",
+    "description": "Oakley Radar EV Path is engineered for peak athletic performance. Extended lens coverage and Prizm lens technology optimize vision for sport.",
+    "features": [
+      "Extended lens coverage",
+      "Prizm sport lens technology",
+      "Unobtainium grip",
+      "Interchangeable lenses",
+      "Impact protection"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Matte Black",
+        "lensColor": "Mirror",
+        "image": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=800&h=800&fit=crop",
+        "sku": "OK-RE-009-MM"
+      },
+      {
+        "id": "v2",
+        "frameColor": "White",
+        "lensColor": "Grey",
+        "image": "https://images.unsplash.com/photo-1509695507497-903a140ce43f?w=800&h=800&fit=crop",
+        "sku": "OK-RE-009-WG"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Ryan S.",
+        "rating": 5,
+        "date": "2026-02-25",
+        "title": "Pro Level Performance",
+        "comment": "Used these for a marathon. Zero fogging, perfect fit.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "2",
+      "8",
+      "11"
+    ],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": false,
+    "discount": 0,
+    "rating": 4.8,
+    "reviewCount": 145,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:46:55.063Z"
+  },
+  {
+    "id": "10",
+    "slug": "oliver-peoples-riley",
+    "name": "Riley",
+    "brand": "Oliver Peoples",
+    "price": 425,
+    "sku": "OP-RI-010",
+    "category": "Prescription Glasses",
+    "frameType": "Full Rim",
+    "frameShape": "Oval",
+    "lensColor": "Clear",
+    "frameColor": "Tortoise",
+    "gender": "Unisex",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": false,
+    "blueLightFilter": false,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 28,
+    "images": [
+      "https://images.unsplash.com/photo-1545127395-f9c6b929b4b8?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1556306535-38fe0e8a0a3d?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1545127395-f9c6b929b4b8?w=800&h=800&fit=crop",
+    "description": "Oliver Peoples Riley showcases understated elegance with a refined oval silhouette. Hand-polished acetate and signature rivet details.",
+    "features": [
+      "Hand-polished acetate",
+      "Signature rivet details",
+      "Pin-drilled hinges",
+      "Anti-reflective coating",
+      "Made in Italy"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Tortoise",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1545127395-f9c6b929b4b8?w=800&h=800&fit=crop",
+        "sku": "OP-RI-010-TC"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Black",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+        "sku": "OP-RI-010-BK"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Nina C.",
+        "rating": 5,
+        "date": "2026-03-08",
+        "title": "Understated Elegance",
+        "comment": "The perfect balance of classic and contemporary. Beautiful craftsmanship.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "5",
+      "7",
+      "12"
+    ],
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "isPublished": false,
+    "isHidden": true,
+    "discount": 0,
+    "rating": 4.8,
+    "reviewCount": 92,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:46:58.905Z"
+  },
+  {
+    "id": "11",
+    "slug": "prada-linea-rossa",
+    "name": "Linea Rossa",
+    "brand": "Prada",
+    "price": 450,
+    "salePrice": 399,
+    "sku": "PR-LR-011",
+    "category": "Sunglasses",
+    "frameType": "Full Rim",
+    "frameShape": "Wayfarer",
+    "lensColor": "Grey",
+    "frameColor": "Black",
+    "gender": "Men",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": true,
+    "blueLightFilter": false,
+    "prescriptionCompatible": false,
+    "stockStatus": "In Stock",
+    "stockQuantity": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+    "description": "Prada Linea Rossa combines sporty aesthetics with luxury craftsmanship. The signature red line detail and premium polarized lenses define this collection.",
+    "features": [
+      "Signature red line detail",
+      "Polarized lenses",
+      "Lightweight acetate",
+      "Rubber temple tips",
+      "Sport-luxury design"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Black",
+        "lensColor": "Grey",
+        "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+        "sku": "PR-LR-011-BG"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Tortoise",
+        "lensColor": "Brown",
+        "image": "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+        "sku": "PR-LR-011-TB"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Marco D.",
+        "rating": 5,
+        "date": "2026-02-18",
+        "title": "Sport Meets Luxury",
+        "comment": "Perfect blend of performance and style. The red line detail is iconic.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "6",
+      "9",
+      "1"
+    ],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": false,
+    "discount": 11.33,
+    "rating": 4.7,
+    "reviewCount": 73,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "slug": "warby-parker-percey",
+    "name": "Percey",
+    "brand": "Warby Parker",
+    "price": 95,
+    "sku": "WP-PE-012",
+    "category": "Reading Glasses",
+    "frameType": "Semi-Rimless",
+    "frameShape": "Rectangle",
+    "lensColor": "Clear",
+    "frameColor": "Silver",
+    "gender": "Men",
+    "material": "Metal",
+    "uvProtection": "None",
+    "polarized": false,
+    "blueLightFilter": false,
+    "prescriptionCompatible": false,
+    "stockStatus": "In Stock",
+    "stockQuantity": 55,
+    "images": [
+      "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop",
+    "description": "Warby Parker Percey reading glasses feature a sophisticated semi-rimless design. Available in multiple magnification strengths for comfortable reading.",
+    "features": [
+      "Semi-rimless design",
+      "Multiple magnification options",
+      "Anti-reflective coating",
+      "Spring hinges",
+      "Includes case"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Silver",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1591076486339-de95fffe5474?w=800&h=800&fit=crop",
+        "sku": "WP-PE-012-SV"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Gold",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+        "sku": "WP-PE-012-GD"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Robert F.",
+        "rating": 4,
+        "date": "2026-03-12",
+        "title": "Comfortable Readers",
+        "comment": "Lightweight and stylish. Much better than drugstore readers.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "5",
+      "7",
+      "10"
+    ],
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "isPublished": false,
+    "isHidden": true,
+    "discount": 0,
+    "rating": 4.5,
+    "reviewCount": 234,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:47:04.070Z"
+  },
+  {
+    "id": "13",
+    "slug": "tom-ford-whitney",
+    "name": "Whitney",
+    "brand": "Tom Ford",
+    "price": 520,
+    "sku": "TF-WH-013",
+    "category": "Fashion Eyewear",
+    "frameType": "Full Rim",
+    "frameShape": "Butterfly",
+    "lensColor": "Brown",
+    "frameColor": "Tortoise",
+    "gender": "Women",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": false,
+    "blueLightFilter": false,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1545127395-f9c6b929b4b8?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1556306535-38fe0e8a0a3d?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+    "description": "Tom Ford Whitney sunglasses embody Hollywood glamour with an oversized butterfly frame. Signature T logo on temples and gradient lenses.",
+    "features": [
+      "Oversized butterfly frame",
+      "Signature T logo temples",
+      "Gradient lenses",
+      "Handmade in Italy",
+      "Luxury presentation case"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Tortoise",
+        "lensColor": "Brown",
+        "image": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=800&h=800&fit=crop",
+        "sku": "TF-WH-013-TB"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Black",
+        "lensColor": "Grey",
+        "image": "https://images.unsplash.com/photo-1545127395-f9c6b929b4b8?w=800&h=800&fit=crop",
+        "sku": "TF-WH-013-BG"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Isabella M.",
+        "rating": 5,
+        "date": "2026-01-30",
+        "title": "Hollywood Glamour",
+        "comment": "These make me feel like a movie star. Stunning in every way.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "3",
+      "6",
+      "4"
+    ],
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": false,
+    "discount": 0,
+    "rating": 4.9,
+    "reviewCount": 45,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "14",
+    "slug": "ray-ban-wayfarer-classic",
+    "name": "Wayfarer Classic",
+    "brand": "Ray-Ban",
+    "price": 169,
+    "sku": "RB-WF-014",
+    "category": "Sunglasses",
+    "frameType": "Full Rim",
+    "frameShape": "Wayfarer",
+    "lensColor": "Green",
+    "frameColor": "Black",
+    "gender": "Unisex",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": true,
+    "blueLightFilter": false,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 65,
+    "images": [
+      "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+    "description": "The Ray-Ban Wayfarer Classic is the most recognizable style in eyewear history. Bold acetate frames with crystal green lenses.",
+    "features": [
+      "Most iconic eyewear design",
+      "Acetate frame construction",
+      "Crystal green lenses",
+      "100% UV protection",
+      "Prescription available"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Black",
+        "lensColor": "Green",
+        "image": "https://images.unsplash.com/photo-1572635196233-2244fb0f9d9c?w=800&h=800&fit=crop",
+        "sku": "RB-WF-014-BG"
+      },
+      {
+        "id": "v2",
+        "frameColor": "Tortoise",
+        "lensColor": "Brown",
+        "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop",
+        "sku": "RB-WF-014-TB"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Tom H.",
+        "rating": 5,
+        "date": "2026-02-05",
+        "title": "The Original",
+        "comment": "Nothing beats the original Wayfarer. A must-have for any collection.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "1",
+      "11",
+      "4"
+    ],
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "isPublished": false,
+    "isHidden": true,
+    "discount": 0,
+    "rating": 4.9,
+    "reviewCount": 567,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:47:08.298Z"
+  },
+  {
+    "id": "15",
+    "slug": "premium-lens-cloth-set",
+    "name": "Premium Lens Cloth Set",
+    "brand": "Eye Care",
+    "price": 29.99,
+    "sku": "WP-LC-015",
+    "category": "Accessories",
+    "frameType": "Full Rim",
+    "frameShape": "Rectangle",
+    "lensColor": "Clear",
+    "frameColor": "Silver",
+    "gender": "Unisex",
+    "material": "Stainless Steel",
+    "uvProtection": "None",
+    "polarized": false,
+    "blueLightFilter": false,
+    "prescriptionCompatible": false,
+    "stockStatus": "In Stock",
+    "stockQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1574258493453-aa6e855c7ccd?w=800&h=800&fit=crop"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+    "description": "Premium microfiber lens cloth set with anti-static treatment. Includes 3 cloths and a compact carrying pouch. Safe for all lens coatings.",
+    "features": [
+      "Anti-static microfiber",
+      "Safe for all coatings",
+      "Machine washable",
+      "Compact carrying pouch",
+      "Set of 3 cloths"
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "frameColor": "Silver",
+        "lensColor": "Clear",
+        "image": "https://images.unsplash.com/photo-1582555172862-7f0409b8b1a1?w=800&h=800&fit=crop",
+        "sku": "EC-LC-015-SV"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Karen S.",
+        "rating": 5,
+        "date": "2026-03-01",
+        "title": "Essential Accessory",
+        "comment": "Best lens cloths I've used. No streaks, no scratches.",
+        "verified": true
+      }
+    ],
+    "relatedProductIds": [
+      "5",
+      "7",
+      "12"
+    ],
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "isPublished": false,
+    "isHidden": true,
+    "discount": 0,
+    "rating": 4.8,
+    "reviewCount": 189,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-07-18T15:47:10.957Z",
+    "nameAr": "",
+    "descriptionAr": "",
+    "categoryAr": ""
+  },
+  {
+    "id": "16",
+    "slug": "new",
+    "name": "new",
+    "brand": "Ray-Ban",
+    "price": 999.99,
+    "salePrice": 600,
+    "sku": "g",
+    "category": "Sunglasses",
+    "frameType": "Full Rim",
+    "frameShape": "Wayfarer",
+    "lensColor": "Dark green",
+    "frameColor": " Black",
+    "gender": "Unisex",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": false,
+    "blueLightFilter": false,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 3,
+    "images": [
+      "/images/products/products_MRNLZNCRJN6JVH.jpg",
+      "/images/products/products_MRNLZWM7L2OL93.jpg"
+    ],
+    "thumbnail": "/images/products/products_MRNLZNCRJN6JVH.jpg",
+    "description": "Premium sunglasses inspired by timeless luxury design, featuring a sleek black frame and deep dark lenses for a bold, sophisticated look. Expertly styled and photographed for See Sun with a refined studio aesthetic that captures elegance, confidence, and modern luxury in every detail.\n",
+    "features": [],
+    "variants": [],
+    "reviews": [],
+    "relatedProductIds": [],
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "isPublished": true,
+    "isHidden": false,
+    "discount": 0,
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2026-07-16T12:16:09.542Z",
+    "updatedAt": "2026-07-16T14:33:25.906Z",
+    "nameAr": "",
+    "descriptionAr": "",
+    "categoryAr": ""
+  },
+  {
+    "name": "p2",
+    "brand": "Ray-Ban",
+    "price": 100,
+    "sku": "12",
+    "category": "Prescription Glasses",
+    "frameType": "Full Rim",
+    "frameShape": "Aviator",
+    "lensColor": "",
+    "frameColor": "",
+    "gender": "Unisex",
+    "material": "Acetate",
+    "uvProtection": "UV400",
+    "polarized": false,
+    "blueLightFilter": false,
+    "prescriptionCompatible": true,
+    "stockStatus": "In Stock",
+    "stockQuantity": 4,
+    "description": "",
+    "features": [],
+    "nameAr": "",
+    "descriptionAr": "",
+    "categoryAr": "",
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "isPublished": true,
+    "discount": 0,
+    "images": [
+      "/uploads/products/products_MRQLKJA0FNJBXZ.jpg"
+    ],
+    "thumbnail": "/uploads/products/products_MRQLKJA0FNJBXZ.jpg",
+    "id": "17",
+    "slug": "p2",
+    "variants": [],
+    "reviews": [],
+    "relatedProductIds": [],
+    "isHidden": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "createdAt": "2026-07-18T16:45:26.548Z",
+    "updatedAt": "2026-07-18T16:49:08.553Z"
+  }
+]
